@@ -17,5 +17,8 @@ class SampleTest {
     @Test
     fun testHello() {
         // TODO: implement to call hello function
+        println("This is the updated SampleTest.kt ")
+        hello()
     }
 }
+
